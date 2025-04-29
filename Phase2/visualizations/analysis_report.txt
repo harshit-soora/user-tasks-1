@@ -1,0 +1,46 @@
+# Comparative Analysis of Survivor and American Idol
+
+## Demographics of Winners
+
+### Age Analysis
+Survivor Average Age: 34.36 years
+American Idol Average Age: 32.38 years
+
+### Gender Analysis
+Survivor Female Percentage: 37.78%
+American Idol Female Percentage: 52.38%
+
+### Background Analysis
+Top backgrounds in Survivor:
+- Sales: 9 winners
+- Healthcare: 6 winners
+- Business: 6 winners
+
+Top backgrounds in American Idol:
+- Athlete: 5 winners
+
+- Teacher: 4 winners
+
+- Healthcare: 3 winners
+
+## Viewership Trends
+
+Survivor Average Viewership: 9.76 million
+American Idol Average Viewership: 16.79 million
+
+Viewership Trend Analysis:
+- Survivor viewership trend: Increasing by 0.01 million viewers per season
+- American Idol viewership trend: Decreasing by 0.13 million viewers per season
+
+## Evolution Over Time
+
+### Number of Contestants
+Survivor Average Contestants: 18.22
+American Idol Average Contestants: 15.71
+
+### Peak Viewership Seasons
+Survivor Peak: Season 34 (2033) with 14.87 million viewers
+American Idol Peak: Season 3 (2004) with 28.87 million viewers
+
+### Conclusion
+This analysis shows several key differences between Survivor and American Idol in terms of winner demographics, viewership patterns, and show evolution. While both shows have experienced changes in viewership over time, they have maintained distinct characteristics in terms of contestant selection and winner profiles.
