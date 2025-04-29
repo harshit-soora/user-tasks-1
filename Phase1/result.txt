@@ -1,0 +1,3 @@
+Address,Sale Date,Sale Price,Square Footage,Number of Bedrooms,Number of Bathrooms,Year Built,Lot Size,Additional Features,Year
+1011 Koa Rd,2022-01-25,950000,2200,4,3,2005,7000,Yes,2022
+7071 Hoku Ln,2022-01-15,950000,2200,4,3,2007,7000,Yes,2022
